@@ -1,2 +1,2 @@
 # hyperspeed
-This project is not OPEN SOURCE
+The project has been scraped
